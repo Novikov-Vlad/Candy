@@ -1,0 +1,7 @@
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\obj\Debug\Candy_library.csprojAssemblyReference.cache
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\obj\Debug\Candy_library.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\bin\Debug\Candy_library.exe.config
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\bin\Debug\Candy_library.exe
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\bin\Debug\Candy_library.pdb
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\obj\Debug\Candy_library.exe
+C:\Users\Bruce\Desktop\C#\HomeWorks\Candy_library\obj\Debug\Candy_library.pdb
